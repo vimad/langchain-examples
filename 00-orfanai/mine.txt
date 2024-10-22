@@ -1,0 +1,478 @@
+When performing a mining process at the root level for the organism Arabidopsis thaliana(3702) (taxonomy ID: 3702),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 2798 orphan-level sequences,
+ 89896 genus-level sequences,
+ 645 family-level sequences,
+ 23 order-level sequences,
+ 103 class-level sequences,
+ 1 phylum-level sequences,
+ 0 kingdom-level sequences,
+ 24 superkingdom-level sequences,
+ 2797 species-level sequences and 16 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 2.99,
+with the total number of sequences being 93505
+
+
+When performing a mining process at the root level for the organism Balaenoptera musculus(9771) (taxonomy ID: 9771),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 148 orphan-level sequences,
+ 35306 genus-level sequences,
+ 0 family-level sequences,
+ 1372 order-level sequences,
+ 30 class-level sequences,
+ 1 phylum-level sequences,
+ 0 kingdom-level sequences,
+ 1 superkingdom-level sequences,
+ 147 species-level sequences and 1 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 0.40,
+with the total number of sequences being 36858
+
+
+When performing a mining process at the root level for the organism Caenorhabditis elegans(6239) (taxonomy ID: 6239),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 8492 orphan-level sequences,
+ 19503 genus-level sequences,
+ 28 family-level sequences,
+ 43 order-level sequences,
+ 73 class-level sequences,
+ 6 phylum-level sequences,
+ 58 kingdom-level sequences,
+ 43 superkingdom-level sequences,
+ 8491 species-level sequences and 26 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 30.04,
+with the total number of sequences being 28271
+
+
+When performing a mining process at the root level for the organism Danio rerio(7955) (taxonomy ID: 7955),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 1653 orphan-level sequences,
+ 63 genus-level sequences,
+ 35 family-level sequences,
+ 51875 order-level sequences,
+ 177 class-level sequences,
+ 30 phylum-level sequences,
+ 13 kingdom-level sequences,
+ 11 superkingdom-level sequences,
+ 1652 species-level sequences and 81 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 3.06,
+with the total number of sequences being 53937
+
+
+When performing a mining process at the root level for the organism Drosophila melanogaster(7227) (taxonomy ID: 7227),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 2493 orphan-level sequences,
+ 33991 genus-level sequences,
+ 7 family-level sequences,
+ 24 order-level sequences,
+ 14 class-level sequences,
+ 1 phylum-level sequences,
+ 11 kingdom-level sequences,
+ 3 superkingdom-level sequences,
+ 2492 species-level sequences and 14 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 6.82,
+with the total number of sequences being 36557
+
+
+When performing a mining process at the root level for the organism Escherichia coli(562) (taxonomy ID: 562),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 17192 orphan-level sequences,
+ 2949861 genus-level sequences,
+ 142815 family-level sequences,
+ 3143 order-level sequences,
+ 1759 class-level sequences,
+ 0 phylum-level sequences,
+ 0 kingdom-level sequences,
+ 0 superkingdom-level sequences,
+ 17191 species-level sequences and 0 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 0.55,
+with the total number of sequences being 3114769
+
+
+When performing a mining process at the root level for the organism Homo sapiens(9606) (taxonomy ID: 9606),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 6940 orphan-level sequences,
+ 10749 genus-level sequences,
+ 188373 family-level sequences,
+ 1365 order-level sequences,
+ 667 class-level sequences,
+ 34 phylum-level sequences,
+ 18 kingdom-level sequences,
+ 18 superkingdom-level sequences,
+ 6939 species-level sequences and 105 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 3.33,
+with the total number of sequences being 208268
+
+
+When performing a mining process at the root level for the organism Rattus norvegicus(10116) (taxonomy ID: 10116),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 6590 orphan-level sequences,
+ 66123 genus-level sequences,
+ 6350 family-level sequences,
+ 240 order-level sequences,
+ 156 class-level sequences,
+ 26 phylum-level sequences,
+ 5 kingdom-level sequences,
+ 13 superkingdom-level sequences,
+ 6589 species-level sequences and 10 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 8.29,
+with the total number of sequences being 79512
+
+
+When performing a mining process at the root level for the organism Zea mays(4577) (taxonomy ID: 4577),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 8889 orphan-level sequences,
+ 1000 genus-level sequences,
+ 124597 family-level sequences,
+ 37 order-level sequences,
+ 272 class-level sequences,
+ 5 phylum-level sequences,
+ 1 kingdom-level sequences,
+ 50 superkingdom-level sequences,
+ 8888 species-level sequences and 22 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 6.59,
+with the total number of sequences being 134872
+
+
+When performing a mining process at the root level for the organism Bos taurus (9913) (taxonomy ID: 9913),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 281 orphan-level sequences,
+ 41031 genus-level sequences,
+ 13499 family-level sequences,
+ 521 order-level sequences,
+ 65 class-level sequences,
+ 3 phylum-level sequences,
+ 1 kingdom-level sequences,
+ 4 superkingdom-level sequences,
+ 280 species-level sequences and 0 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 0.51,
+with the total number of sequences being 55404
+
+
+When performing a mining process at the root level for the organism Canis lupus familiaris (9615) (taxonomy ID: 9615),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 627 orphan-level sequences,
+ 41830 genus-level sequences,
+ 5302 family-level sequences,
+ 299 order-level sequences,
+ 46 class-level sequences,
+ 2 phylum-level sequences,
+ 0 kingdom-level sequences,
+ 0 superkingdom-level sequences,
+ 626 species-level sequences and 3 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 1.30,
+with the total number of sequences being 48108
+
+
+When performing a mining process at the root level for the organism Capra hircus (9925) (taxonomy ID: 9925),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 8 orphan-level sequences,
+ 407 genus-level sequences,
+ 934 family-level sequences,
+ 5 order-level sequences,
+ 2 class-level sequences,
+ 0 phylum-level sequences,
+ 0 kingdom-level sequences,
+ 0 superkingdom-level sequences,
+ 7 species-level sequences and 0 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 0.59,
+with the total number of sequences being 1355
+
+
+When performing a mining process at the root level for the organism Dasypus novemcinctus (9361) (taxonomy ID: 9361),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 556 orphan-level sequences,
+ 29 genus-level sequences,
+ 0 family-level sequences,
+ 11 order-level sequences,
+ 29520 class-level sequences,
+ 11 phylum-level sequences,
+ 5 kingdom-level sequences,
+ 4 superkingdom-level sequences,
+ 555 species-level sequences and 6 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 1.84,
+with the total number of sequences being 30141
+
+
+When performing a mining process at the root level for the organism Desulfuromonas acetoxidans (891) (taxonomy ID: 891),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 716 orphan-level sequences,
+ 2392 genus-level sequences,
+ 81 family-level sequences,
+ 46 order-level sequences,
+ 41 class-level sequences,
+ 79 phylum-level sequences,
+ 20 kingdom-level sequences,
+ 8 superkingdom-level sequences,
+ 715 species-level sequences and 16 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 21.07,
+with the total number of sequences being 3398
+
+
+When performing a mining process at the root level for the organism Meriones unguiculatus (10047) (taxonomy ID: 10047),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 185 orphan-level sequences,
+ 33 genus-level sequences,
+ 11636 family-level sequences,
+ 286 order-level sequences,
+ 21 class-level sequences,
+ 3 phylum-level sequences,
+ 1 kingdom-level sequences,
+ 1 superkingdom-level sequences,
+ 184 species-level sequences and 7 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 1.52,
+with the total number of sequences being 12172
+
+
+When performing a mining process at the root level for the organism Mus musculus (10090) (taxonomy ID: 10090),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 5141 orphan-level sequences,
+ 104516 genus-level sequences,
+ 3205 family-level sequences,
+ 312 order-level sequences,
+ 127 class-level sequences,
+ 28 phylum-level sequences,
+ 16 kingdom-level sequences,
+ 14 superkingdom-level sequences,
+ 5140 species-level sequences and 74 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 4.53,
+with the total number of sequences being 113432
+
+
+When performing a mining process at the root level for the organism Xenopus laevis (8355) (taxonomy ID: 8355),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 2765 orphan-level sequences,
+ 60065 genus-level sequences,
+ 0 family-level sequences,
+ 395 order-level sequences,
+ 64 class-level sequences,
+ 219 phylum-level sequences,
+ 72 kingdom-level sequences,
+ 17 superkingdom-level sequences,
+ 2764 species-level sequences and 41 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 4.34,
+with the total number of sequences being 63637
+
+
+When performing a mining process at the root level for the organism Pan troglodytes (9598) (taxonomy ID: 9598),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 382 orphan-level sequences,
+ 62727 genus-level sequences,
+ 6483 family-level sequences,
+ 182 order-level sequences,
+ 73 class-level sequences,
+ 5 phylum-level sequences,
+ 1 kingdom-level sequences,
+ 0 superkingdom-level sequences,
+ 381 species-level sequences and 3 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 0.55,
+with the total number of sequences being 69855
+
+
+When performing a mining process at the root level for the organism Oryctolagus cuniculus (9986) (taxonomy ID: 9986),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 55 orphan-level sequences,
+ 0 genus-level sequences,
+ 127 family-level sequences,
+ 1747 order-level sequences,
+ 112 class-level sequences,
+ 2 phylum-level sequences,
+ 0 kingdom-level sequences,
+ 0 superkingdom-level sequences,
+ 54 species-level sequences and 1 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 2.69,
+with the total number of sequences being 2043
+
+
+When performing a mining process at the root level for the organism Xenopus tropicalis(8364) (taxonomy ID: 8364),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 1474 orphan-level sequences,
+ 36740 genus-level sequences,
+ 0 family-level sequences,
+ 196 order-level sequences,
+ 20 class-level sequences,
+ 90 phylum-level sequences,
+ 15 kingdom-level sequences,
+ 30 superkingdom-level sequences,
+ 1473 species-level sequences and 32 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 3.82,
+with the total number of sequences being 38596
+
+
+When performing a mining process at the root level for the organism Batrachochytrium dendrobatidis(109871) (taxonomy ID: 109871),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 5732 orphan-level sequences,
+ 734 genus-level sequences,
+ 0 family-level sequences,
+ 1244 order-level sequences,
+ 41 class-level sequences,
+ 152 phylum-level sequences,
+ 290 kingdom-level sequences,
+ 324 superkingdom-level sequences,
+ 5731 species-level sequences and 2 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 67.29,
+with the total number of sequences being 8518
+
+
+When performing a mining process at the root level for the organism Ambystoma tigrinum(8305) (taxonomy ID: 8305),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 7 orphan-level sequences,
+ 26 genus-level sequences,
+ 0 family-level sequences,
+ 4 order-level sequences,
+ 17 class-level sequences,
+ 0 phylum-level sequences,
+ 0 kingdom-level sequences,
+ 0 superkingdom-level sequences,
+ 6 species-level sequences and 0 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 13.21,
+with the total number of sequences being 53
+
+
+When performing a mining process at the root level for the organism Anolis carolinensis(28377) (taxonomy ID: 28377),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 28 orphan-level sequences,
+ 210 genus-level sequences,
+ 0 family-level sequences,
+ 146 order-level sequences,
+ 0 class-level sequences,
+ 3 phylum-level sequences,
+ 0 kingdom-level sequences,
+ 0 superkingdom-level sequences,
+ 27 species-level sequences and 0 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 7.25,
+with the total number of sequences being 386
+
+
+When performing a mining process at the root level for the organism Gallus gallus(9031) (taxonomy ID: 9031),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 1655 orphan-level sequences,
+ 425 genus-level sequences,
+ 65386 family-level sequences,
+ 287 order-level sequences,
+ 372 class-level sequences,
+ 36 phylum-level sequences,
+ 6 kingdom-level sequences,
+ 15 superkingdom-level sequences,
+ 1654 species-level sequences and 69 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 2.42,
+with the total number of sequences being 68250
+
+
+When performing a mining process at the root level for the organism Trachemys scripta elegans(31138) (taxonomy ID: 31138),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 50 orphan-level sequences,
+ 72 genus-level sequences,
+ 28962 family-level sequences,
+ 192 order-level sequences,
+ 20 class-level sequences,
+ 0 phylum-level sequences,
+ 0 kingdom-level sequences,
+ 0 superkingdom-level sequences,
+ 49 species-level sequences and 0 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 0.17,
+with the total number of sequences being 29295
+
+
+When performing a mining process at the root level for the organism Coturnix japonica(93934) (taxonomy ID: 93934),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 316 orphan-level sequences,
+ 267 genus-level sequences,
+ 30544 family-level sequences,
+ 103 order-level sequences,
+ 234 class-level sequences,
+ 24 phylum-level sequences,
+ 4 kingdom-level sequences,
+ 4 superkingdom-level sequences,
+ 315 species-level sequences and 8 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 1.00,
+with the total number of sequences being 31503
+
+
+When performing a mining process at the root level for the organism Alligator mississippiensis(8496) (taxonomy ID: 8496),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 111 orphan-level sequences,
+ 11444 genus-level sequences,
+ 1 family-level sequences,
+ 2 order-level sequences,
+ 862 class-level sequences,
+ 3 phylum-level sequences,
+ 0 kingdom-level sequences,
+ 1 superkingdom-level sequences,
+ 110 species-level sequences and 0 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 0.89,
+with the total number of sequences being 12423
+
+
+When performing a mining process at the family level for the organism Zea mays(4577) (taxonomy ID: 4577),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 9276 orphan-level sequences,
+ 1000 genus-level sequences,
+ 124597 family-level sequences,
+ 0 order-level sequences,
+ 0 class-level sequences,
+ 0 phylum-level sequences,
+ 0 kingdom-level sequences,
+ 0 superkingdom-level sequences,
+ 9275 species-level sequences and 0 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 6.88,
+with the total number of sequences being 134872
+
+
+When performing a mining process at the super kingdom level for the organism Homo sapiens(9606) (taxonomy ID: 9606),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 197521 orphan-level sequences,
+ 10750 genus-level sequences,
+ 0 family-level sequences,
+ 0 order-level sequences,
+ 0 class-level sequences,
+ 0 phylum-level sequences,
+ 0 kingdom-level sequences,
+ 0 superkingdom-level sequences,
+ 197520 species-level sequences and 0 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 94.84,
+with the total number of sequences being 208270
+
+
+When performing a mining process at the kingdom level for the organism Homo sapiens(9606) (taxonomy ID: 9606),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 7063 orphan-level sequences,
+ 10750 genus-level sequences,
+ 188373 family-level sequences,
+ 1365 order-level sequences,
+ 667 class-level sequences,
+ 34 phylum-level sequences,
+ 18 kingdom-level sequences,
+ 0 superkingdom-level sequences,
+ 7062 species-level sequences and 0 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 3.39,
+with the total number of sequences being 208269
+
+
+When performing a mining process at the phylum level for the organism Aotus nancymaae(37293) (taxonomy ID: 37293),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 133 orphan-level sequences,
+ 228 genus-level sequences,
+ 0 family-level sequences,
+ 34195 order-level sequences,
+ 16 class-level sequences,
+ 1 phylum-level sequences,
+ 0 kingdom-level sequences,
+ 0 superkingdom-level sequences,
+ 132 species-level sequences and 0 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 0.38,
+with the total number of sequences being 34572
+
+
+When performing a mining process at the kingdom level for the organism Oryza sativa(4530) (taxonomy ID: 4530),
+it was identified that the genome contains the following taxonomically restricted sequences:
+ 14314 orphan-level sequences,
+ 45341 genus-level sequences,
+ 4013 family-level sequences,
+ 51 order-level sequences,
+ 216 class-level sequences,
+ 5 phylum-level sequences,
+ 8 kingdom-level sequences,
+ 4 superkingdom-level sequences,
+ 14313 species-level sequences and 0 root-level sequences.
+The percentage of orphan genes relative to the total number of sequences is 22.38,
+with the total number of sequences being 63951

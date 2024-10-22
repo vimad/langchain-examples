@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+langchain-openai = "*"
+langchain-community = "*"
+langchain-text-splitters = "*"
+langchain-postgres = "*"
+langchain-google-genai = "*"
+pypdf2 = "*"
+pypdf = "*"
+langchain-huggingface = "*"
+psycopg = {extras = ["pool", "binary"], version = "*"}
+streamlit = "*"
+streamlit-chat = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
+python_full_version = "3.12.2"
